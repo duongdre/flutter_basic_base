@@ -1,0 +1,23 @@
+{
+  "base": "BASE",
+  "test_api": "Test API call",
+
+  "error_no_data": "NO DATA RECEIVED",
+
+  "error": "Error",
+  "name_empty_error": "Error",
+  "mobile_empty_error": "Error",
+  "email_empty_error": "Error",
+  "email_invalid_error": "Error",
+  "password_empty_error": "Error",
+  "password_short_error": "Error",
+  "user_not_approved_error": "Error",
+  "user_not_existed_error": "Error",
+  "un_authorized_error": "Error",
+  "current_password_empty_error": "Error",
+  "new_password_empty_error": "Error",
+  "repeat_password_empty_error": "Error",
+  "password_not_match_error": "Error",
+  "not_login_error": "Error",
+  "ok": "OK"
+}
